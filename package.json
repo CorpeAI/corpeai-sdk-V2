@@ -1,6 +1,6 @@
 {
   "name": "@corpeai/corpeai-sdk-v2",
-  "version": "0.1.114-alpha",
+  "version": "0.1.118",
   "description": "An SDK for building applications on top of CorpeAI.",
   "license": "GPL-3.0",
   "main": "./lib/index.js",
@@ -10,7 +10,7 @@
     "./lib",
     "./src"
   ],
-  "repository": "https://github.com/CorpeAI/corpeai-sdk-V2",
+  "repository": "https://github.com/corpeai/corpeai-sdk-V2",
   "publicConfig": {
     "registry": "https://registry.yarnpkg.com",
     "access": "public"
